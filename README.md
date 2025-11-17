@@ -1,10 +1,14 @@
-#  Leaktor
+# Leaktor
 
 **A blazingly fast secrets scanner with validation capabilities**
 
-Leaktor is a modern, high-performance secrets scanner designed for security professionals and developers. Built in Rust, it combines pattern matching, entropy analysis, and live secret validation to help you find and verify exposed credentials in your codebase and git history.
-
+[![CI](https://github.com/reschjonas/leaktor/workflows/CI/badge.svg)](https://github.com/reschjonas/leaktor/actions)
+[![Security Scan](https://github.com/reschjonas/leaktor/workflows/Security%20Scan/badge.svg)](https://github.com/reschjonas/leaktor/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Rust](https://img.shields.io/badge/rust-2024%20edition-orange.svg)](https://www.rust-lang.org)
+[![Platform](https://img.shields.io/badge/platform-linux%20%7C%20macos%20%7C%20windows-lightgrey.svg)](https://github.com/reschjonas/leaktor)
+
+Leaktor is a modern, high-performance secrets scanner designed for security professionals and developers. Built in Rust, it combines pattern matching, entropy analysis, and live secret validation to help you find and verify exposed credentials in your codebase and git history.
 
 ##  Features
 
